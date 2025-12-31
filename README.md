@@ -53,28 +53,5 @@ lib/
 
 ---
 
-### 🧩 Installation & Setup
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/shop_app.git
-   cd shop_app
-   ```
-
-2. **Get dependencies**
-
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-
-   ```bash
-   flutter run
-   ```
-
-4. **(Optional)** Configure an emulator or connect a real device.
-
----
 
